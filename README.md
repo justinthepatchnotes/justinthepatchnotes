@@ -3,7 +3,8 @@
 ## <img src="/Images/Labs.png"  width="30" height="30"> IT HomeLabs
 
 #### Microsoft Azure <img src="/Images/AD.png"  width="20" height="20"> 
-- [Creating a Vitural Machine Using Azure <img src="/Images/AD.png"  width="17" height="17">]
+- [Creating a Vitural Machine Using Azure <img src="/Images/AD.png"  width="17" height="17">
+](https://github.com/justinthepatchnotes/Creating-a-Vitural-Machine-Using-Azure)
 
 - [Configuring Active Directory within Azure VMs <img src="/Images/AD.png"  width="17" height="17">
 ](https://github.com/JustinThePatchNotes/Configuring-Active-Directory-within-Azure-VMs)
