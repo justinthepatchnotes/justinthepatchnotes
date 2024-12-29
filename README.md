@@ -1,31 +1,31 @@
-## <img src="/Images/Hello.png"  width="30" height="30"> Hello, I'm [JusitnInThePatchNotes](https://www.linkedin.com/in/JusitnInThePatchNotes) an [IT Professional](https://JusitnInThePatchNotes.com/)
+## <img src="/Images/Hello.png"  width="30" height="30"> Hello, I'm [JustinThePatchNotes](https://www.linkedin.com/in/JustinThePatchNotes) an [IT Professional](https://JustinThePatchNotes.com/)
 
 ## <img src="/Images/Labs.png"  width="30" height="30"> IT HomeLabs
 
 #### Microsoft Azure <img src="/Images/AD.png"  width="20" height="20"> 
-- [Creating a Vitural Machine Using Azure <img src="/Images/AD.png"  width="17" height="17">](https://github.com/JusitnInThePatchNotes/Creating-a-Virtual-Machine-Using-Azure)
+- [Creating a Vitural Machine Using Azure <img src="/Images/AD.png"  width="17" height="17">](https://github.com/JustinThePatchNotes/Creating-a-Virtual-Machine-Using-Azure)
 - [Configuring Active Directory within Azure VMs <img src="/Images/AD.png"  width="17" height="17">
-](https://github.com/JusitnInThePatchNotes/Configuring-Active-Directory-within-Azure-VMs)
-- [Network File Shares and Permissions with Active Directory <img src="/Images/NFS.png"  width="17" height="17">](https://github.com/JusitnInThePatchNotes/-Network-File-Shares-and-Permissions-with-Active-Directory)
+](https://github.com/JustinThePatchNotes/Configuring-Active-Directory-within-Azure-VMs)
+- [Network File Shares and Permissions with Active Directory <img src="/Images/NFS.png"  width="17" height="17">](https://github.com/JustinThePatchNotes/-Network-File-Shares-and-Permissions-with-Active-Directory)
 - [Network Security Groups (NSGs) and Inspecting Network Protocols <img src="/Images/NSG.png"  width="22" height="22">
-](https://github.com/JusitnInThePatchNotes/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols)
+](https://github.com/JustinThePatchNotes/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols)
 
 
 #### Jira Service Management Help Desk <img src="/Images/osTicket.png"  width="20" height="20">
 - [Jira: Service Level Agreement Configuration <img src="/Images/osTicket.png"  width="20" height="20">
-](https://github.com/JusitnInThePatchNotes/Jira-Service-Level-Agreement-Configuration)
+](https://github.com/JustinThePatchNotes/Jira-Service-Level-Agreement-Configuration)
 - [Jira: Ticket Lifecycle Examples <img src="/Images/osTicket.png"  width="20" height="20">
- ](https://github.com/JusitnInThePatchNotes/Jira-Ticket-Lifecycle-Examples)
+ ](https://github.com/JustinThePatchNotes/Jira-Ticket-Lifecycle-Examples)
 
 ## <img src="/Images/Linux.png"  width="30" height="30"> Linux HomeLabs 
-- [Ansible Automater ](https://github.com/JusitnInThePatchNotes/Ansible-Automater) <img src="/Images/Linux.png"  width="17" height="17"> <img src="/Images/Terminal.png"  width="17" height="17">
-- [Securing a Linux System ](https://github.com/JusitnInThePatchNotes/Securing-and-Hardening-a-Linux-System) <img src="/Images/Linux.png"  width="17" height="17"><img src="/Images/Lock.png"  width="17" height="17">
-- [WordPress With Docker  ](https://github.com/JusitnInThePatchNotes/WordPress-With-Docker) <img src="/Images/WordPress.png"  width="17" height="17"><img src="/Images/Docker.png"  width="22" height="22">
-- [Web & DNS Server  ](https://github.com/JusitnInThePatchNotes/Web-DNS-Server) <img src="/Images/Web.png"  width="20" height="20"><img src="/Images/Server.png"  width="17" height="17">
+- [Ansible Automater ](https://github.com/JustinThePatchNotes/Ansible-Automater) <img src="/Images/Linux.png"  width="17" height="17"> <img src="/Images/Terminal.png"  width="17" height="17">
+- [Securing a Linux System ](https://github.com/JustinThePatchNotes/Securing-and-Hardening-a-Linux-System) <img src="/Images/Linux.png"  width="17" height="17"><img src="/Images/Lock.png"  width="17" height="17">
+- [WordPress With Docker  ](https://github.com/JustinThePatchNotes/WordPress-With-Docker) <img src="/Images/WordPress.png"  width="17" height="17"><img src="/Images/Docker.png"  width="22" height="22">
+- [Web & DNS Server  ](https://github.com/JustinThePatchNotes/Web-DNS-Server) <img src="/Images/Web.png"  width="20" height="20"><img src="/Images/Server.png"  width="17" height="17">
 
 ---
 #### Windows Projects <img src="/Images/Windows.png"  width="20" height="20">
-- [Creating a Windows Bootable Drive <img src="/Images/Flashdrive.png"  width="27" height="27">](https://github.com/JusitnInThePatchNotes/Creating-a-Windows-Bootable-Drive)
+- [Creating a Windows Bootable Drive <img src="/Images/Flashdrive.png"  width="27" height="27">](https://github.com/JustinThePatchNotes/Creating-a-Windows-Bootable-Drive)
 
 
 ## <img  src="/Images/Certs.png" width="30" height="30"> Certifications
@@ -55,10 +55,10 @@
 
 ## <img src="/Images/ContactIcon.png"  width="30" height="30"> Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/JusitnInThePatchNotes/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/JustinThePatchNotes/)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 
 ## <img src="/Images/WebsiteBlogIcon.png"  width="30" height="30"> Website
-[![website](https://img.shields.io/badge/JusitnInThePatchNotes\.com-2F5267?style=for-the-badge&logo=windows&logoColor=white)](https://JusitnInThePatchNotes.com/)
+[![website](https://img.shields.io/badge/JustinThePatchNotes\.com-2F5267?style=for-the-badge&logo=windows&logoColor=white)](https://JustinThePatchNotes.com/)
 
