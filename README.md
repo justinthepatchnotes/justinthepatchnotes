@@ -8,7 +8,7 @@
 
 - [Configuring Active Directory within Azure VMs <img src="/Images/AD.png"  width="17" height="17">
 ](https://github.com/JustinThePatchNotes/Configuring-Active-Directory-within-Azure-VMs)
-- [Network File Shares and Permissions with Active Directory <img src="/Images/NFS.png"  width="17" height="17">](https://github.com/JustinThePatchNotes/-Network-File-Shares-and-Permissions-with-Active-Directory)
+- [Network File Shares and Permissions with Active Directory <img src="/Images/NFS.png"  width="17" height="17">](https://github.com/JustinThePatchNotes/Network-File-Shares-and-Permissions-with-Active-Directory)
 - [Network Security Groups (NSGs) and Inspecting Network Protocols <img src="/Images/NSG.png"  width="22" height="22">
 ](https://github.com/JustinThePatchNotes/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols)
 
