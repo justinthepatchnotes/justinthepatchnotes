@@ -20,27 +20,52 @@
 
 #### Server 2019-2022 <img src="/Images/.png"  width="20" height="20">
 
-- [Password Reset
- <img src="/Images/.png"  width="20" height="20">
-](https://github.com/JustinThePatchNotes/Password-Reset)
+- [Account Creation <img src="/Images/osTicket.png" width="20" height="20">](https://github.com/JustinThePatchNotes/Account-Creation)  
+- [Security Groups <img src="/Images/osTicket.png" width="20" height="20">](https://github.com/JustinThePatchNotes/Security-Groups)  
 
-- [Account Creation  
-<img src="/Images/.png" width="20" height="20">  
-](https://github.com/JustinThePatchNotes/Account-Creation)  
+- [Share Drives <img src="/Images/osTicket.png" width="20" height="20">](https://github.com/JustinThePatchNotes/Share-Drives)
 
-- [Security Groups  
-<img src="/Images/.png" width="20" height="20">  
-](https://github.com/JustinThePatchNotes/Security-Groups)  
-
-- [Share Drives  
-<img src="/Images/.png" width="20" height="20">  
-](https://github.com/JustinThePatchNotes/Share-Drives)
 
 #### Jira Service Management Help Desk <img src="/Images/osTicket.png"  width="20" height="20">
-- [Jira: Service Level Agreement Configuration <img src="/Images/osTicket.png"  width="20" height="20">
+- [Service Level Agreement (SLA) Configuration <img src="/Images/osTicket.png"  width="20" height="20">
 ](https://github.com/JustinThePatchNotes/Jira-Service-Level-Agreement-Configuration)
-- [Jira: Ticket Lifecycle Examples <img src="/Images/osTicket.png"  width="20" height="20">
+
+- [Ticket Lifecycle Examples <img src="/Images/osTicket.png"  width="20" height="20">
  ](https://github.com/JustinThePatchNotes/Jira-Ticket-Lifecycle-Examples)
+
+ #### MFA <img src="/Images/osTicket.png" width="20" height="20">
+
+- [Okta <img src="/Images/osTicket.png" width="20" height="20">](https://github.com/JustinThePatchNotes/Okta)
+
+#### MDM (Mobile Device Management) <img src="/Images/osTicket.png" width="20" height="20">
+
+- [Maas360 <img src="/Images/osTicket.png" width="20" height="20">](https://github.com/JustinThePatchNotes/Maas360)
+ 
+#### SCCM (Microsoft Endpoint Configuration Manager) <img src="/Images/osTicket.png" width="20" height="20">
+
+- [Patch Management <img src="/Images/osTicket.png" width="20" height="20">](https://github.com/JustinThePatchNotes/Patch-Management)
+
+- [Software Deployment <img src="/Images/osTicket.png" width="20" height="20">](https://github.com/JustinThePatchNotes/Software-Deployment)
+
+- [Remote Access <img src="/Images/osTicket.png" width="20" height="20">](https://github.com/JustinThePatchNotes/Remote-Access)
+
+#### Remote Tools <img src="/Images/osTicket.png" width="20" height="20">
+
+- [AnyDesk <img src="/Images/osTicket.png" width="20" height="20">](https://github.com/JustinThePatchNotes/AnyDesk)
+
+
+#### Intune <img src="/Images/osTicket.png" width="20" height="20">
+
+- [Autopilot Enrollment <img src="/Images/osTicket.png" width="20" height="20">](https://github.com/JustinThePatchNotes/Autopilot-Enrollment)
+
+- [Software Deployment <img src="/Images/osTicket.png" width="20" height="20">](https://github.com/JustinThePatchNotes/Intune-Software-Deployment)
+
+- [Configuration <img src="/Images/osTicket.png" width="20" height="20">](https://github.com/JustinThePatchNotes/Intune-Configuration)
+
+- [Compliance <img src="/Images/osTicket.png" width="20" height="20">](https://github.com/JustinThePatchNotes/Intune-Compliance)
+
+- [Conditional Access <img src="/Images/osTicket.png" width="20" height="20">](https://github.com/JustinThePatchNotes/Intune-Conditional-Access)
+
 
 ## <img src="/Images/Linux.png"  width="30" height="30"> Linux HomeLabs 
 - [Ansible Automater ](https://github.com/JustinThePatchNotes/Ansible-Automater) <img src="/Images/Linux.png"  width="17" height="17"> <img src="/Images/Terminal.png"  width="17" height="17">
