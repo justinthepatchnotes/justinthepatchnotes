@@ -6,11 +6,35 @@
 - [Creating a Vitural Machine Using Azure <img src="/Images/AD.png"  width="17" height="17">
 ](https://github.com/justinthepatchnotes/Creating-a-Vitural-Machine-Using-Azure)
 
+
 - [Configuring Active Directory within Azure VMs <img src="/Images/AD.png"  width="17" height="17">
 ](https://github.com/JustinThePatchNotes/Configuring-Active-Directory-within-Azure-VMs)
-- [Network File Shares and Permissions with Active Directory <img src="/Images/NFS.png"  width="17" height="17">](https://github.com/JustinThePatchNotes/Network-File-Shares-and-Permissions-with-Active-Directory)
 - [Network Security Groups (NSGs) and Inspecting Traffic Between Azure Virtual Machines <img src="/Images/NSG.png"  width="22" height="22">
 ](https://github.com/justinthepatchnotes/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols-)
+
+
+#### Active Directory<img src="/Images/osTicket.png"  width="20" height="20">
+- [Network File Shares and Permissions with Active Directory <img src="/Images/NFS.png"  width="17" height="17">](https://github.com/JustinThePatchNotes/Network-File-Shares-and-Permissions-with-Active-Directory)
+- [Authentication <img src="/Images/Authentication.png"  width="17" height="17">](https://github.com/JustinThePatchNotes/Authentication)
+
+
+#### Server 2019-2022 <img src="/Images/.png"  width="20" height="20">
+
+- [Password Reset
+ <img src="/Images/.png"  width="20" height="20">
+](https://github.com/JustinThePatchNotes/Password-Reset)
+
+- [Account Creation  
+<img src="/Images/.png" width="20" height="20">  
+](https://github.com/JustinThePatchNotes/Account-Creation)  
+
+- [Security Groups  
+<img src="/Images/.png" width="20" height="20">  
+](https://github.com/JustinThePatchNotes/Security-Groups)  
+
+- [Share Drives  
+<img src="/Images/.png" width="20" height="20">  
+](https://github.com/JustinThePatchNotes/Share-Drives)
 
 #### Jira Service Management Help Desk <img src="/Images/osTicket.png"  width="20" height="20">
 - [Jira: Service Level Agreement Configuration <img src="/Images/osTicket.png"  width="20" height="20">
