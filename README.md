@@ -37,9 +37,9 @@
 
 - [Okta <img src="/Images/osTicket.png" width="20" height="20">](https://github.com/JustinThePatchNotes/Okta)
 
-## MDM (Mobile Device Management) <img src="/Images/osTicket.png" width="20" height="20">
+## <img src="/Images/MDM.png" width="30" height="30">MDM (Mobile Device Management)
 
-- [Maas360 <img src="/Images/osTicket.png" width="20" height="20">](https://github.com/JustinThePatchNotes/Maas360)
+- [Maas360 <img src="/Images/MDM.png" width="20" height="20">](https://github.com/JustinThePatchNotes/Maas360)
  
 ##  <img src="/Images/SCCM.PNG" width="30" height="30">SCCM (Microsoft Endpoint Configuration Manager)
 
