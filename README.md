@@ -41,17 +41,17 @@
 
 - [Maas360 <img src="/Images/osTicket.png" width="20" height="20">](https://github.com/JustinThePatchNotes/Maas360)
  
-## SCCM (Microsoft Endpoint Configuration Manager) <img src="/Images/osTicket.png" width="20" height="20">
+##  <img src="/Images/SCCM.PNG" width="30" height="30">SCCM (Microsoft Endpoint Configuration Manager)
 
-- [Patch Management <img src="/Images/osTicket.png" width="20" height="20">](https://github.com/JustinThePatchNotes/Patch-Management)
+- [Patch Management <img src="/Images/SCCM.PNG" width="20" height="20">](https://github.com/JustinThePatchNotes/Patch-Management)
 
-- [Software Deployment <img src="/Images/osTicket.png" width="20" height="20">](https://github.com/JustinThePatchNotes/Software-Deployment)
+- [Software Deployment <img src="/Images/SCCM.PNG" width="20" height="20">](https://github.com/JustinThePatchNotes/Software-Deployment)
 
-- [Remote Access <img src="/Images/osTicket.png" width="20" height="20">](https://github.com/JustinThePatchNotes/Remote-Access)
+- [Remote Access <img src="/Images/SCCM.PNG" width="20" height="20">](https://github.com/JustinThePatchNotes/Remote-Access)
 
-## Remote Tools <img src="/Images/osTicket.png" width="20" height="20">
+##  <img src="/Images/Remote.PNG" width="30" height="30">Remote Tools 
 
-- [AnyDesk <img src="/Images/osTicket.png" width="20" height="20">](https://github.com/JustinThePatchNotes/AnyDesk)
+- [AnyDesk <img src="/Images/Remote.PNG" width="20" height="20"> <img src="/Images/Remote.PNG" width="20" height="20">](https://github.com/JustinThePatchNotes/AnyDesk)
 
 
 ##  <img src="/Images/Cloud.PNG" width="30" height="30">Intune
