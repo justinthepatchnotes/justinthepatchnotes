@@ -1,8 +1,8 @@
-## <img src="/Images/Hello.png"  width="30" height="30"> Hello, I'm [JustinThePatchNotes](https://www.linkedin.com/in/JustinThePatchNotes) an [IT Professional](https://JustinThePatchNotes.com/)
+## <img src="/Images/Hello.png"  width="30" height="30">Hello, I'm [JustinThePatchNotes](https://www.linkedin.com/in/JustinThePatchNotes) an [IT Professional](https://JustinThePatchNotes.com/)
 
-## <img src="/Images/Labs.png"  width="30" height="30"> IT HomeLabs
+## <img src="/Images/Labs.png"  width="30" height="30">IT HomeLabs
 
-## Microsoft Azure <img src="/Images/AD.png"  width="20" height="20"> 
+## <img src="/Images/AD.png"  width="30" height="30">Microsoft Azure
 - [Creating a Vitural Machine Using Azure <img src="/Images/AD.png"  width="17" height="17">
 ](https://github.com/justinthepatchnotes/Creating-a-Vitural-Machine-Using-Azure)
 
@@ -13,29 +13,29 @@
 ](https://github.com/justinthepatchnotes/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols-)
 
 
-## Active Directory<img src="/Images/osTicket.png"  width="20" height="20">
-- [Network File Shares and Permissions with Active Directory <img src="/Images/NFS.png"  width="17" height="17">](https://github.com/JustinThePatchNotes/Network-File-Shares-and-Permissions-with-Active-Directory)
-- [Authentication <img src="/Images/Authentication.png"  width="17" height="17">](https://github.com/JustinThePatchNotes/Authentication)
+## <img src="/Images/Active.PNG"  width="30" height="30">Active Directory
+- [Network File Shares and Permissions with Active Directory <img src="/Images/NFS.PNG"  width="17" height="17">](https://github.com/JustinThePatchNotes/Network-File-Shares-and-Permissions-with-Active-Directory)
+- [Authentication <img src="/Images/Active.PNG"  width="17" height="17">](https://github.com/JustinThePatchNotes/Authentication)
 
 
-## Server 2019-2022 <img src="/Images/.png"  width="20" height="20">
+##  <img src="/Images/Server.png"  width="30" height="30">Server 2019-2022
 
-- [Account Creation <img src="/Images/osTicket.png" width="20" height="20">](https://github.com/JustinThePatchNotes/Account-Creation)  
-- [Security Groups <img src="/Images/osTicket.png" width="20" height="20">](https://github.com/JustinThePatchNotes/Security-Groups)  
+- [Account Creation <img src="/Images/Server.png" width="20" height="20">](https://github.com/JustinThePatchNotes/Account-Creation)  
+- [Security Groups <img src="/Images/Server.png" width="20" height="20">](https://github.com/JustinThePatchNotes/Security-Groups)  
 
-- [Share Drives <img src="/Images/osTicket.png" width="20" height="20">](https://github.com/JustinThePatchNotes/Share-Drives)
+- [Share Drives <img src="/Images/Server.png" width="20" height="20">](https://github.com/JustinThePatchNotes/Share-Drives)
 
 
-## Jira Service Management Help Desk <img src="/Images/osTicket.png"  width="20" height="20">
+## <img src="/Images/osTicket.png"  width="30" height="30">Jira Service Management Help Desk
 - [Service Level Agreement (SLA) Configuration <img src="/Images/osTicket.png"  width="20" height="20">
 ](https://github.com/JustinThePatchNotes/Jira-Service-Level-Agreement-Configuration)
 
 - [Ticket Lifecycle Examples <img src="/Images/osTicket.png"  width="20" height="20">
  ](https://github.com/JustinThePatchNotes/Jira-Ticket-Lifecycle-Examples)
 
- ## MFA <img src="/Images/osTicket.png" width="20" height="20">
+ ## <img src="/Images/MFA.PNG" width="30" height="30">MFA
 
-- [Okta <img src="/Images/osTicket.png" width="20" height="20">](https://github.com/JustinThePatchNotes/Okta)
+- [Okta <img src="/Images/MFA.PNG" width="20" height="20">](https://github.com/JustinThePatchNotes/Okta)
 
 ## <img src="/Images/MDM.png" width="30" height="30">MDM (Mobile Device Management)
 
