@@ -54,18 +54,18 @@
 - [AnyDesk <img src="/Images/osTicket.png" width="20" height="20">](https://github.com/JustinThePatchNotes/AnyDesk)
 
 
-##  <img src="/images/Cloud.PNG" width="30" height="30">Intune
+##  <img src="/Images/Cloud.PNG" width="30" height="30">Intune
 
 - [Autopilot Enrollment <img src="/Images/Cloud.PNG" width="20" height="20">](https://github.com/JustinThePatchNotes/Autopilot-Enrollment)
 
 
-- [Software Deployment <img src="/images/Cloud.PNG" width="20" height="20">](https://github.com/JustinThePatchNotes/Intune-Software-Deployment)
+- [Software Deployment <img src="/Images/Cloud.PNG" width="20" height="20">](https://github.com/JustinThePatchNotes/Intune-Software-Deployment)
 
-- [Configuration <img src="/images/Cloud.PNG" width="20" height="20">](https://github.com/JustinThePatchNotes/Intune-Configuration)
+- [Configuration <img src="/Images/Cloud.PNG" width="20" height="20">](https://github.com/JustinThePatchNotes/Intune-Configuration)
 
-- [Compliance <img src="images/Cloud.PNG" width="20" height="20">](https://github.com/JustinThePatchNotes/Intune-Compliance)
+- [Compliance <img src="/Images/Cloud.PNG" width="20" height="20">](https://github.com/JustinThePatchNotes/Intune-Compliance)
 
-- [Conditional Access <img src="/images/Cloud.PNG" width="20" height="20">](https://github.com/JustinThePatchNotes/Intune-Conditional-Access)
+- [Conditional Access <img src="/Images/Cloud.PNG" width="20" height="20">](https://github.com/JustinThePatchNotes/Intune-Conditional-Access)
 
 
 ## <img src="/Images/Linux.png"  width="30" height="30"> Linux HomeLabs 
