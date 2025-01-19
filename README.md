@@ -51,7 +51,7 @@
 
 ##  <img src="/Images/Remote.PNG" width="30" height="30">Remote Tools 
 
-- [AnyDesk <img src="/Images/Remote.PNG" width="20" height="20"> <img src="/Images/Remote.PNG" width="20" height="20">](https://github.com/JustinThePatchNotes/AnyDesk)
+- [AnyDesk <img src="/Images/Remote.PNG" width="20" height="20"><img src="/Images/Remote.PNG" width="20" height="20">](https://github.com/JustinThePatchNotes/AnyDesk)
 
 
 ##  <img src="/Images/Cloud.PNG" width="30" height="30">Intune
