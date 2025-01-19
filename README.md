@@ -2,7 +2,7 @@
 
 ## <img src="/Images/Labs.png"  width="30" height="30"> IT HomeLabs
 
-#### Microsoft Azure <img src="/Images/AD.png"  width="20" height="20"> 
+## Microsoft Azure <img src="/Images/AD.png"  width="20" height="20"> 
 - [Creating a Vitural Machine Using Azure <img src="/Images/AD.png"  width="17" height="17">
 ](https://github.com/justinthepatchnotes/Creating-a-Vitural-Machine-Using-Azure)
 
@@ -13,12 +13,12 @@
 ](https://github.com/justinthepatchnotes/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols-)
 
 
-#### Active Directory<img src="/Images/osTicket.png"  width="20" height="20">
+## Active Directory<img src="/Images/osTicket.png"  width="20" height="20">
 - [Network File Shares and Permissions with Active Directory <img src="/Images/NFS.png"  width="17" height="17">](https://github.com/JustinThePatchNotes/Network-File-Shares-and-Permissions-with-Active-Directory)
 - [Authentication <img src="/Images/Authentication.png"  width="17" height="17">](https://github.com/JustinThePatchNotes/Authentication)
 
 
-#### Server 2019-2022 <img src="/Images/.png"  width="20" height="20">
+## Server 2019-2022 <img src="/Images/.png"  width="20" height="20">
 
 - [Account Creation <img src="/Images/osTicket.png" width="20" height="20">](https://github.com/JustinThePatchNotes/Account-Creation)  
 - [Security Groups <img src="/Images/osTicket.png" width="20" height="20">](https://github.com/JustinThePatchNotes/Security-Groups)  
@@ -26,22 +26,22 @@
 - [Share Drives <img src="/Images/osTicket.png" width="20" height="20">](https://github.com/JustinThePatchNotes/Share-Drives)
 
 
-#### Jira Service Management Help Desk <img src="/Images/osTicket.png"  width="20" height="20">
+## Jira Service Management Help Desk <img src="/Images/osTicket.png"  width="20" height="20">
 - [Service Level Agreement (SLA) Configuration <img src="/Images/osTicket.png"  width="20" height="20">
 ](https://github.com/JustinThePatchNotes/Jira-Service-Level-Agreement-Configuration)
 
 - [Ticket Lifecycle Examples <img src="/Images/osTicket.png"  width="20" height="20">
  ](https://github.com/JustinThePatchNotes/Jira-Ticket-Lifecycle-Examples)
 
- #### MFA <img src="/Images/osTicket.png" width="20" height="20">
+ ## MFA <img src="/Images/osTicket.png" width="20" height="20">
 
 - [Okta <img src="/Images/osTicket.png" width="20" height="20">](https://github.com/JustinThePatchNotes/Okta)
 
-#### MDM (Mobile Device Management) <img src="/Images/osTicket.png" width="20" height="20">
+## MDM (Mobile Device Management) <img src="/Images/osTicket.png" width="20" height="20">
 
 - [Maas360 <img src="/Images/osTicket.png" width="20" height="20">](https://github.com/JustinThePatchNotes/Maas360)
  
-#### SCCM (Microsoft Endpoint Configuration Manager) <img src="/Images/osTicket.png" width="20" height="20">
+## SCCM (Microsoft Endpoint Configuration Manager) <img src="/Images/osTicket.png" width="20" height="20">
 
 - [Patch Management <img src="/Images/osTicket.png" width="20" height="20">](https://github.com/JustinThePatchNotes/Patch-Management)
 
@@ -49,12 +49,12 @@
 
 - [Remote Access <img src="/Images/osTicket.png" width="20" height="20">](https://github.com/JustinThePatchNotes/Remote-Access)
 
-#### Remote Tools <img src="/Images/osTicket.png" width="20" height="20">
+## Remote Tools <img src="/Images/osTicket.png" width="20" height="20">
 
 - [AnyDesk <img src="/Images/osTicket.png" width="20" height="20">](https://github.com/JustinThePatchNotes/AnyDesk)
 
 
-#### Intune <img src="/Images/osTicket.png" width="20" height="20">
+## Intune <img src="/Images/osTicket.png" width="20" height="20">
 
 - [Autopilot Enrollment <img src="/Images/osTicket.png" width="20" height="20">](https://github.com/JustinThePatchNotes/Autopilot-Enrollment)
 
