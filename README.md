@@ -1,7 +1,5 @@
 ## <img src="/Images/Hello.png"  width="30" height="30">Hello, I'm [JustinThePatchNotes](https://www.linkedin.com/in/JustinThePatchNotes) an [IT Professional](https://JustinThePatchNotes.com/)
 
-## <img src="/Images/Labs.png"  width="30" height="30">IT HomeLabs
-
 ## <img src="/Images/AD.png"  width="30" height="30">Microsoft Azure
 - [Creating a Vitural Machine Using Azure <img src="/Images/AD.png"  width="17" height="17">
 ](https://github.com/justinthepatchnotes/Creating-a-Vitural-Machine-Using-Azure)
@@ -14,7 +12,7 @@
 
 
 ## <img src="/Images/Active.PNG"  width="30" height="30">Active Directory
-- [Network File Shares and Permissions with Active Directory <img src="/Images/NFS.PNG"  width="17" height="17">](https://github.com/JustinThePatchNotes/Network-File-Shares-and-Permissions-with-Active-Directory)
+- [Network File Shares and Permissions with Active Directory <img src="/Images/Active.PNG"  width="17" height="17">](https://github.com/JustinThePatchNotes/Network-File-Shares-and-Permissions-with-Active-Directory)
 - [Authentication <img src="/Images/Active.PNG"  width="17" height="17">](https://github.com/JustinThePatchNotes/Authentication)
 
 
