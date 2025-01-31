@@ -13,16 +13,6 @@
 
 ## <img src="/Images/Active.PNG"  width="30" height="30">Active Directory
 - [Network File Shares and Permissions with Active Directory <img src="/Images/Active.PNG"  width="17" height="17">](https://github.com/JustinThePatchNotes/Network-File-Shares-and-Permissions-with-Active-Directory)
-- [Authentication <img src="/Images/Active.PNG"  width="17" height="17">](https://github.com/JustinThePatchNotes/Authentication)
-
-
-##  <img src="/Images/Server.png"  width="30" height="30">Server 2019-2022
-
-- [Account Creation <img src="/Images/Server.png" width="20" height="20">](https://github.com/JustinThePatchNotes/Account-Creation)  
-- [Security Groups <img src="/Images/Server.png" width="20" height="20">](https://github.com/JustinThePatchNotes/Security-Groups)  
-
-- [Share Drives <img src="/Images/Server.png" width="20" height="20">](https://github.com/JustinThePatchNotes/Share-Drives)
-
 
 ## <img src="/Images/osTicket.png"  width="30" height="30">Jira Service Management Help Desk
 - [Service Level Agreement (SLA) Configuration <img src="/Images/osTicket.png"  width="20" height="20">
@@ -31,39 +21,6 @@
 - [Ticket Lifecycle Examples <img src="/Images/osTicket.png"  width="20" height="20">
  ](https://github.com/JustinThePatchNotes/Jira-Ticket-Lifecycle-Examples)
 
- ## <img src="/Images/MFA.PNG" width="30" height="30">MFA
-
-- [Okta <img src="/Images/MFA.PNG" width="20" height="20">](https://github.com/JustinThePatchNotes/Okta)
-
-## <img src="/Images/MDM.png" width="30" height="30">MDM (Mobile Device Management)
-
-- [Maas360 <img src="/Images/MDM.png" width="20" height="20">](https://github.com/JustinThePatchNotes/Maas360)
- 
-##  <img src="/Images/SCCM.PNG" width="30" height="30">SCCM (Microsoft Endpoint Configuration Manager)
-
-- [Patch Management <img src="/Images/SCCM.PNG" width="20" height="20">](https://github.com/JustinThePatchNotes/Patch-Management)
-
-- [Software Deployment <img src="/Images/SCCM.PNG" width="20" height="20">](https://github.com/JustinThePatchNotes/Software-Deployment)
-
-- [Remote Access <img src="/Images/SCCM.PNG" width="20" height="20">](https://github.com/JustinThePatchNotes/Remote-Access)
-
-##  <img src="/Images/Remote.PNG" width="30" height="30">Remote Tools 
-
-- [AnyDesk <img src="/Images/Remote.PNG" width="20" height="20"><img src="/Images/Remote.PNG" width="20" height="20">](https://github.com/JustinThePatchNotes/AnyDesk)
-
-
-##  <img src="/Images/Cloud.PNG" width="30" height="30">Intune
-
-- [Autopilot Enrollment <img src="/Images/Cloud.PNG" width="20" height="20">](https://github.com/JustinThePatchNotes/Autopilot-Enrollment)
-
-
-- [Software Deployment <img src="/Images/Cloud.PNG" width="20" height="20">](https://github.com/JustinThePatchNotes/Intune-Software-Deployment)
-
-- [Configuration <img src="/Images/Cloud.PNG" width="20" height="20">](https://github.com/JustinThePatchNotes/Intune-Configuration)
-
-- [Compliance <img src="/Images/Cloud.PNG" width="20" height="20">](https://github.com/JustinThePatchNotes/Intune-Compliance)
-
-- [Conditional Access <img src="/Images/Cloud.PNG" width="20" height="20">](https://github.com/JustinThePatchNotes/Intune-Conditional-Access)
 
 
 ## <img src="/Images/Linux.png"  width="30" height="30"> Linux HomeLabs 
