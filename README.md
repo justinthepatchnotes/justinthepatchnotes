@@ -21,15 +21,6 @@
 - [Ticket Lifecycle Examples <img src="/Images/osTicket.png"  width="20" height="20">
  ](https://github.com/JustinThePatchNotes/Jira-Ticket-Lifecycle-Examples)
 
-
-
-## <img src="/Images/Linux.png"  width="30" height="30"> Linux HomeLabs 
-- [Ansible Automater ](https://github.com/JustinThePatchNotes/Ansible-Automater) <img src="/Images/Linux.png"  width="17" height="17"> <img src="/Images/Terminal.png"  width="17" height="17">
-- [Securing a Linux System ](https://github.com/JustinThePatchNotes/Securing-and-Hardening-a-Linux-System) <img src="/Images/Linux.png"  width="17" height="17"><img src="/Images/Lock.png"  width="17" height="17">
-- [WordPress With Docker  ](https://github.com/JustinThePatchNotes/WordPress-With-Docker) <img src="/Images/WordPress.png"  width="17" height="17"><img src="/Images/Docker.png"  width="22" height="22">
-- [Web & DNS Server  ](https://github.com/JustinThePatchNotes/Web-DNS-Server) <img src="/Images/Web.png"  width="20" height="20"><img src="/Images/Server.png"  width="17" height="17">
-
-
 ## <img src="/Images/Windows.png"  width="20" height="20"> Windows Projects 
 - [Creating a Windows Bootable Drive <img src="/Images/Flashdrive.png"  width="27" height="27">](https://github.com/JustinThePatchNotes/Creating-a-Windows-Bootable-Drive)
 
