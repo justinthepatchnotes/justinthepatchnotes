@@ -29,8 +29,7 @@
 [CompTIA ITF+](https://www.certmetrics.com/comptia/public/verification.aspx?code=NQDDM4V82Q9PV0KK) \
 [CompTIA A+](https://link-url-here.org)\
 [CompTIA Network+ (In Progress)](https://link-url-here.org)\
-[Google IT Support Fundamentals](https://www.coursera.org/account/accomplishments/professional-cert/GEGADS6KWKX5?utm_source=ln&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof)\
-
+[Google IT Support Fundamentals](https://www.coursera.org/account/accomplishments/professional-cert/GEGADS6KWKX5?utm_source=ln&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof)
 
 ## <img src="/Images/Skills.png"  width="30" height="30"> Skills & Technologies
 - **Customer Service**
