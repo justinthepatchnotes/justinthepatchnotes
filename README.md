@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-![Alt text](./Images/readmeheader.png)
+![Figma Header Image](/Images/readmeheader.png)
 
 ## <img src="/Images/AD.png"  width="30" height="30">Microsoft Azure
 - [Creating a Vitural Machine Using Azure <img src="/Images/AD.png"  width="17" height="17">
