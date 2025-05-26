@@ -1,4 +1,8 @@
-## <img src="/Images/Hello.png"  width="30" height="30">Hello, I'm [Justin](https://www.linkedin.com/in/JustinThePatchNotes) an [IT Professional](https://JustinThePatchNotes.com/)
+<p align="left">
+<img src="[https://i.imgur.com/3iwtTkN.jpeg height="40%" width="60%" alt="Microsoft Azure Logo"/>
+</p>
+
+https://i.imgur.com/3iwtTkN.jpeg
 
 ## <img src="/Images/AD.png"  width="30" height="30">Microsoft Azure
 - [Creating a Vitural Machine Using Azure <img src="/Images/AD.png"  width="17" height="17">
