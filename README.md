@@ -1,5 +1,5 @@
+<<<<<<< HEAD
 ![Alt text](./Images/readmeheader.png)
-
 
 ## <img src="/Images/AD.png"  width="30" height="30">Microsoft Azure
 - [Creating a Vitural Machine Using Azure <img src="/Images/AD.png"  width="17" height="17">
@@ -28,9 +28,9 @@
 
 ## <img  src="/Images/Certs.png" width="30" height="30"> Certifications
 [CompTIA ITF+](https://www.certmetrics.com/comptia/public/verification.aspx?code=NQDDM4V82Q9PV0KK) \
-[CompTIA A+](https://link-url-here.org)\
-[Google IT Support Fundamentals](https://www.coursera.org/account/accomplishments/professional-cert/GEGADS6KWKX5?utm_source=ln&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof)\
-[CourseCareers Practical Help Desk Professional (PHDP)](https://)
+[CompTIA A+](https://www.certmetrics.com/comptia/public/verification.aspx?code=7Q66N4Y43Q56FG3Y) \
+[CompTIA Network+ (In Progress)](https://link-url-here.org)\
+[Google IT Support Fundamentals](https://www.coursera.org/account/accomplishments/professional-cert/GEGADS6KWKX5?utm_source=ln&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof)
 
 ## <img src="/Images/Skills.png"  width="30" height="30"> Skills & Technologies
 - **Customer Service**
@@ -41,6 +41,7 @@
 
 
 ## <img src="/Images//ToolsIcon.png"  width="30" height="30"> Tools I Use
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
