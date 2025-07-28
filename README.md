@@ -13,27 +13,27 @@
 ---
 
 ## <img src="/Images/Active.PNG"  width="30" height="30">Active Directory
-- [Network File Shares and Permissions with Active Directory <img src="/Images/Active.PNG"  width="17" height="17">](https://github.com/JustinThePatchNotes/Network-File-Shares-and-Permissions-with-Active-Directory)
+- **[Network File Shares and Permissions with Active Directory <img src="/Images/Active.PNG"  width="17" height="17">](https://github.com/JustinThePatchNotes/Network-File-Shares-and-Permissions-with-Active-Directory)**
 ---
 
 ## <img src="/Images/osTicket.png"  width="30" height="30">Jira Service Management Help Desk
-- [Service Level Agreement (SLA) Configuration <img src="/Images/osTicket.png"  width="20" height="20">
-](https://github.com/JustinThePatchNotes/Jira-Service-Level-Agreement-Configuration)
+- **[Service Level Agreement (SLA) Configuration <img src="/Images/osTicket.png"  width="20" height="20">
+](https://github.com/JustinThePatchNotes/Jira-Service-Level-Agreement-Configuration)**
 
-- ##[Ticket Lifecycle Examples <img src="/Images/osTicket.png"  width="20" height="20">
- ](https://github.com/JustinThePatchNotes/Jira-Ticket-Lifecycle-Examples)
+- **[Ticket Lifecycle Examples <img src="/Images/osTicket.png"  width="20" height="20">
+ ](https://github.com/JustinThePatchNotes/Jira-Ticket-Lifecycle-Examples)**
 ---
 
 ## <img src="/Images/Windows.png"  width="20" height="20"> Windows Projects 
-- [Creating a Windows Bootable Drive <img src="/Images/Flashdrive.png"  width="27" height="27">](https://github.com/JustinThePatchNotes/Creating-a-Windows-Bootable-Drive)
+- **[Creating a Windows Bootable Drive <img src="/Images/Flashdrive.png"  width="27" height="27">](https://github.com/JustinThePatchNotes/Creating-a-Windows-Bootable-Drive)**
 
 ---
 
 ## <img  src="/Images/Certs.png" width="30" height="30"> Certifications
-[CompTIA ITF+](https://www.certmetrics.com/comptia/public/verification.aspx?code=NQDDM4V82Q9PV0KK) \
-[CompTIA A+](https://www.certmetrics.com/comptia/public/verification.aspx?code=7Q66N4Y43Q56FG3Y) \
-[CompTIA Network+ (In Progress)](https://link-url-here.org)\
-[Google IT Support Fundamentals](https://www.coursera.org/account/accomplishments/professional-cert/GEGADS6KWKX5?utm_source=ln&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof)
+**[CompTIA ITF+](https://www.certmetrics.com/comptia/public/verification.aspx?code=NQDDM4V82Q9PV0KK)**
+**[CompTIA A+](https://www.certmetrics.com/comptia/public/verification.aspx?code=7Q66N4Y43Q56FG3Y)**
+**[CompTIA Network+ (In Progress)](https://link-url-here.org)**
+**[Google IT Support Fundamentals](https://www.coursera.org/account/accomplishments/professional-cert/GEGADS6KWKX5?utm_source=ln&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof)**
 
 ---
 
