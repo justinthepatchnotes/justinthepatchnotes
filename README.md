@@ -1,13 +1,13 @@
 ![Figma Header Image](/Images/GithubHeader.png)
 
 ## <img src="/Images/AD.png"  width="30" height="30">Microsoft Azure
-- [Creating a Vitural Machine Using Azure <img src="/Images/AD.png"  width="17" height="17">
+- ##[Creating a Vitural Machine Using Azure <img src="/Images/AD.png"  width="17" height="17">
 ](https://github.com/justinthepatchnotes/Creating-a-Vitural-Machine-Using-Azure)
 
 
-- [Configuring Active Directory within Azure VMs <img src="/Images/AD.png"  width="17" height="17">
+- ##[Configuring Active Directory within Azure VMs <img src="/Images/AD.png"  width="17" height="17">
 ](https://github.com/JustinThePatchNotes/Configuring-Active-Directory-within-Azure-VMs)
-- [Network Security Groups (NSGs) and Inspecting Traffic Between Azure Virtual Machines <img src="/Images/NSG.png"  width="22" height="22">
+- ##[Network Security Groups (NSGs) and Inspecting Traffic Between Azure Virtual Machines <img src="/Images/NSG.png"  width="22" height="22">
 ](https://github.com/justinthepatchnotes/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols-)
 
 
@@ -18,7 +18,7 @@
 - [Service Level Agreement (SLA) Configuration <img src="/Images/osTicket.png"  width="20" height="20">
 ](https://github.com/JustinThePatchNotes/Jira-Service-Level-Agreement-Configuration)
 
-- [Ticket Lifecycle Examples <img src="/Images/osTicket.png"  width="20" height="20">
+- ##[Ticket Lifecycle Examples <img src="/Images/osTicket.png"  width="20" height="20">
  ](https://github.com/JustinThePatchNotes/Jira-Ticket-Lifecycle-Examples)
 
 ## <img src="/Images/Windows.png"  width="20" height="20"> Windows Projects 
