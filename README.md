@@ -3,7 +3,7 @@
 ## <img src="/Images/Firewall.png"  width="30" height="30">Cisco Certified Network Associate (CCNA) Labs
 
 - **[Cisco CCNA 200-301 Gold Bootcamp / Jeremy's IT Labs 
- <img src="/Images/Firewall.png" width="17" height="17">](https://github.com/CCNA-Labs)**
+ <img src="/Images/Firewall.png" width="17" height="17">](https://github.com/justinthepatchnotes/CCNA-Labs)**
 
 ---
 ## <img src="/Images/AD.png"  width="30" height="30">Microsoft Azure
