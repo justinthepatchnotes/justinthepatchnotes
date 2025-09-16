@@ -38,7 +38,7 @@
 ## <img  src="/Images/Certs.png" width="30" height="30"> Certifications
 **[CompTIA ITF+](https://www.certmetrics.com/comptia/public/verification.aspx?code=NQDDM4V82Q9PV0KK)**  
 **[CompTIA A+](https://www.certmetrics.com/comptia/public/verification.aspx?code=7Q66N4Y43Q56FG3Y)**  
-**[CCNA (In Progress)](https://link-url-here.org)**  
+**[CompTIA Network+ (In Progress)](https://link-url-here.org)**  
 
 
 ---
