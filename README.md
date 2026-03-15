@@ -1,4 +1,3 @@
-![Figma Header Image](/Images/GithubHeader.png)
 
 ## <img src="/Images/Firewall.png"  width="30" height="30">Cisco Certified Network Associate (CCNA) Labs
 
