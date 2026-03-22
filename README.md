@@ -1,6 +1,4 @@
 
-## <img src="/Images/Firewall.png"  width="30" height="30">Cisco Certified Network Associate (CCNA) Labs
-
 ## <img src="/Images/AD.png"  width="30" height="30">Microsoft Azure
 
 - **[Creating a Virtual Machine Using Azure <img src="/Images/AD.png" width="17" height="17">](https://github.com/justinthepatchnotes/Creating-a-Vitural-Machine-Using-Azure)**
